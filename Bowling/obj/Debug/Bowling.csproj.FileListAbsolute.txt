@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.g.resources
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\migelle\Documents\Development\C# Personal\Bowling\Bowling\obj\Debug\Bowling.pdb
